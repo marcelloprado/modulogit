@@ -1,7 +1,3 @@
-Meu segundo sistema no git 25/10/2021 (alterado e atualizado)
+Meu segundo sistema no git 25/10/2021 (alterado e atualizado novamente)
 
-modificando
 
-alguma linha legal
-
-mais uma linha
